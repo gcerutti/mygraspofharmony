@@ -5,6 +5,8 @@ site_author: Guillaume Cerutti
 nav:
     - 'Home': 'index.md'
     - 'Introduction': 'introduction.md'
+    - 'Concepts':
+          - 'Musical Notes': musical_notes.md
 
 theme:
     name: material

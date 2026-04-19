@@ -18,8 +18,10 @@ However, music theory can feel like a labyrinth of obscure terms, filled with _f
 
 ## Perceived harmony
 
-It is important to remember that, at its very core, harmony essentially derives from the human perception of what _sounds good_, which has more to do with psychoacoustics and basic arithmethics than with any complex theory. Our ears and brain (arguably trained to a certain musical tradition) are great at recognizing what sounds pleasant or not, and at transcribing sequences of sounds into emotions.
+It is important to remember that, at its very core, harmony derives from the human perception of what _sounds good_, which has more to do with psychoacoustics and basic arithmethics than with any complex theory. Our ears and brain (arguably trained to a certain musical tradition) are great at recognizing what sounds pleasant or not, and at transcribing sequences of sounds into emotions.
 
 We know how to decipher musical harmony _intuitively_, without rationalizing it, through our perception of music. Throughout this site, we will try to hold on to this idea while trying to build a path of comprehension across the concepts of music theory: we will use on our intuition of harmony as a compass, and to introduce a term only because it puts a word onto something that we can perceive.
 
+## A layering of notes
 
+Harmony begins as soon as two notes sound together, blending in a more or less pleasant way. But even before getting to this topic, we need to establish a shared understanding of the fundamental objects we are dealing with: [Musical Notes](musical_notes)
