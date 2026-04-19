@@ -24,4 +24,4 @@ We know how to decipher musical harmony _intuitively_, without rationalizing it,
 
 ## A layering of notes
 
-Harmony begins as soon as two notes sound together, blending in a more or less pleasant way. But even before getting to this topic, we need to establish a shared understanding of the fundamental objects we are dealing with: [Musical Notes](musical_notes)
+Harmony begins as soon as two notes sound together, blending in a more or less pleasant way. But even before getting to this topic, we need to establish a shared understanding of the fundamental objects we are dealing with: [Musical Notes](musical_notes.md).

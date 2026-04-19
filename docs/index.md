@@ -8,4 +8,4 @@ The theory of musical harmony can feel like an unnatural, overcomplicated way to
 
 This site is an invitation to follow my journey through that understanding: a step-by-step exploration of harmony, where we will encounter music theory concepts, always guided by intuition.
 
-[Let's start exploring harmony...](introduction)
+[Let's start exploring harmony...](introduction.md)
