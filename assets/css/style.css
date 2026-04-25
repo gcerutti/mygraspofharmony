@@ -1,5 +1,5 @@
 :root  > * {
-  --md-primary-fg-color:        #FF0000;
+  --md-primary-fg-color:    #FF0000;
   --md-header-color:		#F0F0F0;
 }
 
@@ -7,17 +7,30 @@
   background-color: var(--md-header-color);
 }
 
+.md-nav--primary .md-nav__title[for=__drawer] {
+    background-color: var(--md-header-color);
+}
+
 .md-header__button.md-logo {
     margin: 0;
     padding: 0;
-    display: block
+    display: block;
 }
 
 .md-header__button.md-logo img, .md-header__button.md-logo svg {
-    height: 6rem;
-    width: 27rem;
+    width: 100%;
+    height: 100%;
+}
+
+.md-nav--primary .md-nav__title .md-logo {
+    margin: 0;
+    padding: 0;
 }
 
 .md-header__topic {
-    Width: 0rem;
+    width: 0rem;
+}
+
+.md-typeset .admonition {
+    font-size: .8rem;
 }
