@@ -14,7 +14,7 @@ All of this forms what is called the **envelope** of the note, and if you cancel
 
 ![audio/mpeg](../assets/audios/C3_norm.mp3)
 
-Then there is what makes the note *sound like* a piano, the instrument's characteristic texture, which allows you to distinguish it from one played by an oboe or sung by a human voice. This part is called the **timbre**, and we have to take a much closer look to the sound wave to understand where it comes from. Here is what 5 hundredths of a second of our sustained piano sound wave looks like:
+Then there is what makes the note *sound like* a piano, the instrument's characteristic texture, which allows you to distinguish it from one played by an oboe or sung by a human voice. This part is called the **timbre**, and we have to take a much closer look to the sound wave to understand where it comes from. Here is what 5/100 of a second of our sustained piano sound wave look like:
 
 ```python exec="1" session="1" html="1"
 from io import StringIO
@@ -74,7 +74,7 @@ plt.savefig(buffer, format="svg")
 print(buffer.getvalue())
 ```
 
-This core frequency defines the **pitch** of the sound, and it is what determines whether you hear a higher or lower note. In all the following, when we talk about a note, *we will only consider its pitch* and treat it as a pure, stable sine wave composed of a single frequency. However, the sound of such a note would not necessarily be the most pleasant:
+This core frequency defines the **pitch** of the sound, and it is what determines whether you hear a higher or lower note. We can see a musical instrument as an object that transforms a single frequency like this one into a rich, recognizable sound. But in all the following, when we talk about a note, *we will only consider its pitch* and treat it as a pure, stable sine wave composed of a single frequency. However, the sound of such a note would not necessarily be the most pleasant:
 
 ![audio/mpeg](../assets/audios/C3_pitch.mp3)
 
