@@ -2,7 +2,7 @@
 
 In Western music, the concept of **Harmony** is often defined, among the essential building blocks of music, as the _vertical_ one. It is the one that focuses on the effect of simultaneously playing two or more **musical notes**, as opposed to the _horizontal_ concept of **Melody**, which focuses instead on notes being played sequentially in time. In fact, harmony also encompasses the succession of such "sets of simultaneous notes" in time, and therefore also involves a horizontal dimension.
 
-Understanding harmony basically consists in figuring out why certain arrangements of notes _work_, whether they sound pleasant to the ear, or succeed in conveying the intended musical mood... 
+Understanding harmony basically consists in figuring out why certain arrangements of notes _work_ when played together, whether they sound pleasant to the ear, or succeed in conveying the intended musical mood... 
 
 ![audio/mpeg](assets/audios/HarmonyOk.mp3)
 
@@ -24,4 +24,4 @@ We know how to decipher musical harmony _intuitively_, without rationalizing it,
 
 ## A layering of notes
 
-Harmony begins as soon as two notes sound together, blending in a more or less pleasant way. But even before getting to this topic, we need to establish a shared understanding of the fundamental objects we are dealing with: [Musical Notes](musical_notes.md).
+Harmony starts as soon as two notes sound together, blending in a more or less pleasant way. But even before getting to that part, let's go all the way to the beginning, to the basic atoms of music: [Musical Notes](musical_notes/what_is_a_note.md).

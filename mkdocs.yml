@@ -5,8 +5,9 @@ site_author: Guillaume Cerutti
 nav:
     - 'Home': 'index.md'
     - 'Introduction': 'introduction.md'
-    - 'Concepts':
-          - 'Musical Notes': musical_notes.md
+    - 'Musical Notes':
+          - musical_notes/what_is_a_note.md
+          - musical_notes/why_12_notes.md
 
 theme:
     name: material
@@ -27,7 +28,12 @@ markdown_extensions:
         emoji_generator: !!python/name:material.extensions.emoji.to_svg
     - admonition
     - pymdownx.details
-    - pymdownx.superfences
+    - pymdownx.superfences:
+        custom_fences:
+        - name: python
+          class: python
+          validator: !!python/name:markdown_exec.validator
+          format: !!python/name:markdown_exec.formatter
     - pymdownx.tabbed:
         alternate_style: true
 
